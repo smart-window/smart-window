@@ -1,4 +1,4 @@
-### Hi there 👋
+# Full Stack / Blockchain Developer
 
 <!--
 **smart-window/smart-window** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
