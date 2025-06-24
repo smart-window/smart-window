@@ -5,7 +5,7 @@ I'm a passionate self-taught full stack web developer and blockchain engineer. m
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
-- 💼 any freelance work? do reach, [email](mailto:smart.free.dev@gmail.com), [telegram](https://t.me/smart_917) :)
+- 💼 any freelance work? do reach, [email](mailto:smart.free.dev@gmail.com), [telegram](https://t.me/gru_917) :)
 - 💬 ask me about anything, i am happy to help;
 
 ## ⚡ Technologies
